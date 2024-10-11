@@ -44,7 +44,7 @@ for (let i = 1 ; i <bici.length; i++){
         biciclettaPesominore = bicicletta
     }
 
-    console.log(biciclettaPesominore);
-} 
+    
+} console.log(biciclettaPesominore);
 } console.log(biciPesominore())
     
