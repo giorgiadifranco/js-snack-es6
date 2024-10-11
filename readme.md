@@ -7,7 +7,7 @@ Ogni oggetto descriverà una bici da corsa con le seguenti proprietà:
 - nome
 - peso
 
-Stampare a schermo la bici con peso minore.  --> ciclo for con array.length - const bicicletta = bici[i] - inserire if (bicicletta.peso < ) , si potrebbe individuare la media del peso delle biciclette tot/num biciclette e prendere riferimento  (?), sommare tutti i pesi e dividerli per il numero delle bicilette e poi creare condizione
+Stampare a schermo la bici con peso minore.  --> ciclo for con array.length - const bicicletta = bici[i] - inserire if (bicicletta.peso < ) , si potrebbe individuare la media del peso delle biciclette tot/num biciclette e prendere riferimento  (?), sommare tutti i pesi e dividerli per il numero delle bicilette e poi creare condizione ----> No Media  ma confrontare ad esempio la prima bici con le altre, assumendo che la prima bici sia la più leggera
 
 
 
