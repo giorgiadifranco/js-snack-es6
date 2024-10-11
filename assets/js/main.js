@@ -27,4 +27,32 @@ const bici = [
     peso: 8.5
 
 }
-]
+];
+
+function biciPesominore (){
+let pesoMedio = 0
+
+for (let i = 0 ; i <bici.length; i++){
+
+    const bicicletta = bici[i];
+
+    pesoMedio+= bicicletta.peso/6
+
+    if(bici[i].peso < pesoMedio){
+
+        console.log(bicicletta.peso);
+        
+     }
+    
+
+
+
+} //console.log(pesoMedio);
+
+ 
+
+
+}
+
+//console.log(biciPesominore())
+
