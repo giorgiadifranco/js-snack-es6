@@ -35,7 +35,7 @@ let biciclettaPesominore = bici[0];
 
 
 
-for (let i = 0 ; i <bici.length; i++){
+for (let i = 1 ; i <bici.length; i++){
 
     let bicicletta = bici[i];
 
