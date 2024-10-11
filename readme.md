@@ -22,7 +22,7 @@ Creare un array di oggetti di squadre di calcio con le seguenti proprietà:
 
  - NOME sarà l’unica proprietà da compilare (le altre saranno tutte settate a 0);
 
- - Generare numeri random al posto degli 0 nelle proprietà:
+ - Generare numeri random al posto degli 0 nelle proprietà: //utilizzo di Math.floor(Math.random()) all'interno di un ciclo For (let i=0; i < squadre.length ; i++)//aggiornare le proprietà con --> squadraA.punti= 'numero random'; squadra.falli = numero random; --> console.log(squadra)
     -  “punti” fatti 
     -  “falli subiti”
 
