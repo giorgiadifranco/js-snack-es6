@@ -29,64 +29,22 @@ const bici = [
 }
 ];
 
-let pesoBici = []
-let biciclettaPeso = bici[i].peso;
-pesoBici.push(biciclettaPeso)
-console.log(pesoBici);
+function biciPesominore (){
 
-
-
-/*function biciPesominore (){
+let biciclettaPesominore = bici[0];
 
 
 
 for (let i = 0 ; i <bici.length; i++){
 
+    let bicicletta = bici[i];
+
+    if (bicicletta.peso < biciclettaPesominore.peso){
+
+        biciclettaPesominore = bicicletta
+    }
+
+    console.log(biciclettaPesominore);
+} 
+} console.log(biciPesominore())
     
-
-
-
-    pesoMedio+= bicicletta.peso/bici.lenght
-}
-    console.log(pesoMedio);
-    
-
-
-    if(bici[i].peso < pesoMedio){
-
-        
-        console.log(bicicletta.peso);
-        
-     }
-    
-} console.log(biciPesominore());
-
-    //const pesoBici = bicicletta.peso; 
-    //const pesoInt = parseInt(pesoBici);
-
-
-
-    //newBici.push(bicicletta)
-    
-  
-    
- //console.log(newBici); 
-//console.log(pesoMedio);
-
- 
-
-
-
-
-//console.log(biciPesominore())
-
-  
-   ;
-
-    */
-   
-    
-    
-    
-    
-
