@@ -10,6 +10,7 @@ Ogni oggetto descriverà una bici da corsa con le seguenti proprietà:
 Stampare a schermo la bici con peso minore.  --> ciclo for con array.length - const bicicletta = bici[i] - inserire if (bicicletta.peso < ) , si potrebbe individuare la media del peso delle biciclette tot/num biciclette e prendere riferimento  (?), sommare tutti i pesi e dividerli per il numero delle bicilette e poi creare condizione
 
 
+
 ## Snack2
 Creare un array di oggetti di squadre di calcio con le seguenti proprietà:
 
